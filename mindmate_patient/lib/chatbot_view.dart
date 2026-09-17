@@ -15,7 +15,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
 
   // IMPORTANT: Replace this with his actual Gemini API Key in production
   static const String _apiKey =
-      "AIzaSyAvCYxQoEsYcTBut9Gv5jCHCa3KB8GS5dM"; // He stated Gemini API, he might need to provide key.
+      ""; // He stated Gemini API, he might need to provide key.
 
   late final GenerativeModel _model;
   late final ChatSession _chat;

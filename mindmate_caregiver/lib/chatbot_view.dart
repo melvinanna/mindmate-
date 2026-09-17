@@ -14,7 +14,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   bool _isLoading = false;
 
   // IMPORTANT: Using the same API key as provided in the patient app
-  static const String _apiKey = "AIzaSyAvCYxQoEsYcTBut9Gv5jCHCa3KB8GS5dM";
+  static const String _apiKey = "";
 
   late final GenerativeModel _model;
   late final ChatSession _chat;
