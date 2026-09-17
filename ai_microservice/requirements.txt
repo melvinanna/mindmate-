@@ -1,0 +1,9 @@
+django
+django-cors-headers
+supabase
+face_recognition
+opencv-python-headless
+numpy
+requests
+setuptools<70.0.0
+./face_recognition_models-master
